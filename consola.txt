@@ -1,0 +1,1 @@
+python train.py --data custom_data.yaml --cfg cfg/training/yolov7.yaml --weights '' --device 0 --epochs 100 --batch-size 16 (Iniciar entrenamiento al pegar en la consola)

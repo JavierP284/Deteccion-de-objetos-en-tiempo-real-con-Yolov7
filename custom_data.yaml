@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['Chair', 'Desk', 'Display', 'Headset', 'Keyboard', 'Laptop', 'Microphone', 'Mouse', 'PC']
+
